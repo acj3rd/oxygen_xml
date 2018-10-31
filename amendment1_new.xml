@@ -10,7 +10,7 @@
     <property role="index" brief="Academic freedom" id="idm51859558016"/>
     <property role="index" brief="Access to broadcasting, press" id="idm51857146880"/>
     <property role="index" brief="Access to courts by public, press" id="idm51858620560"/>
-    <property role="index" brief="Access to prisons by public, press" id="idm51858203936"/>
+    <property role="index" brief="Access to prisons by public, press" id="idm51858203936" foo="bar"/>
     <property role="index" brief="Advertising" id="idm51857846800"/>
     <property role="index" brief="Advertising | Commercial speech" id="idm51857845968"/>
     <property role="index" brief="Advertising | Public forum, access" id="idm51854593008"/>
